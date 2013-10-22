@@ -1,0 +1,100 @@
+{
+    "bookcase": [
+        {
+            "title": "shelf 1",
+            "id": "s1",
+            "books": [
+                {
+                    "title": "",
+                    "isbn": "",
+                    "author": "",
+                    "genre": ""
+                },
+                {
+                    "title": "",
+                    "isbn": "",
+                    "author": "",
+                    "genre": ""
+                },
+                {
+                    "title": "",
+                    "isbn": "",
+                    "author": "",
+                    "genre": ""
+                }
+            ]
+        },
+        {
+            "title": "shelf 1",
+            "id": "s1",
+            "books": [
+                {
+                    "title": "",
+                    "isbn": "",
+                    "author": "",
+                    "genre": ""
+                },
+                {
+                    "title": "",
+                    "isbn": "",
+                    "author": "",
+                    "genre": ""
+                }
+            ]
+        },
+        {
+            "title": "shelf 1",
+            "id": "s1",
+            "books": [
+                {
+                    "title": "",
+                    "isbn": "",
+                    "author": "",
+                    "genre": ""
+                },
+                {
+                    "title": "",
+                    "isbn": "",
+                    "author": "",
+                    "genre": ""
+                },
+                {
+                    "title": "",
+                    "isbn": "",
+                    "author": "",
+                    "genre": ""
+                }
+            ]
+        },
+        {
+            "title": "shelf 1",
+            "id": "s1",
+            "books": [
+                {
+                    "title": "",
+                    "isbn": "",
+                    "author": "",
+                    "genre": ""
+                },
+                {
+                    "title": "",
+                    "isbn": "",
+                    "author": "",
+                    "genre": ""
+                },
+                {
+                    "title": "",
+                    "isbn": "",
+                    "author": "",
+                    "genre": ""
+                },
+                {
+                    "title": "",
+                    "isbn": "",
+                    "author": "",
+                    "genre": ""
+                }
+            ]
+        }
+    ]
+}
