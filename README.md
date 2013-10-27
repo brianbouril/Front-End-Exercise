@@ -21,4 +21,5 @@ Using the provided "case.json" build out a simple bookcase with shelves and book
 ###Additional Information
 
 - Use any framework, library, or development patterns you would like.
+- There are no wrong answers in solving this exercise, so have fun with it.
 - When finished please .zip your project and send it back on to us.
